@@ -1,0 +1,1 @@
+SB_setMachineId('cubi') && SB_setProfileId('cubi')
